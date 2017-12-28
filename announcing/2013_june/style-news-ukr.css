@@ -1,0 +1,95 @@
+#ncont{
+    width:712px;
+    color:#000;
+    font-family:Arial !important; 
+    font-size: 12px; 
+    text-align: left;
+}
+#ncont h1, #ncont table h1{
+    font-size: 16px;
+    text-align: center;
+    font-family:Arial !important; 
+}
+#ncont h2, #ncont table h2{
+    font-size: 14px;
+    text-align: center;
+    font-family:Arial !important; 
+}
+#ncont table{
+	width:712px;
+    font-size: 12px; 
+    text-align: left;
+	font-family:Arial !important;
+}
+#ncont table p {
+    font-family:Arial;
+    font-size: 12px;
+    text-align: left;
+}
+#ncont table a {
+    font-family:Arial;
+    font-size: 12px;
+    text-align: left;
+}
+
+#ncont table li {
+    font-family:Arial;
+    font-size: 12px;
+    text-align: left;
+}
+#ncont li {
+    font-family:Arial;
+    font-size: 12px;
+    text-align: left;
+}
+
+#ncont li strong{
+    font-family:Arial;
+    font-size: 12px;
+    text-align: left;
+}
+
+#ncont table li a {
+    font-family:Arial;
+    font-size: 12px;
+    text-align: left;
+}
+#ncont a {
+    font-family:Arial;
+    font-size: 12px;
+    text-align: left;
+}
+
+#ncont table strong a{
+    font-family:Arial;
+    font-size: 12px;
+    text-align: left;
+}
+#ncont strong p {
+    font-family:Arial;
+    font-size: 12px;
+    text-align: left;
+}
+#ncont p strong a{
+    font-family:Arial;
+    font-size: 12px;
+    text-align: left;
+}
+#ncont p a{
+    font-family:Arial;
+    font-size: 12px;
+    text-align: left;
+}
+#ncont em {
+    font-family:Arial;
+    font-size: 12px;
+    text-align: left;
+}
+#ncont table em {
+    font-family:Arial;
+    font-size: 12px;
+    text-align: left;
+}
+a img{
+	border:none;
+}

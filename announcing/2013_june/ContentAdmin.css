@@ -1,0 +1,613 @@
+
+
+.ImageButton
+{
+	margin-left:0px;
+	margin-top:0px;
+	width:21px;
+	height:21px;
+	border-style:none;
+	background-color:Transparent ;
+}
+.Header
+{
+	position: relative;
+    HEIGHT: 28px;
+	background-image: url(../images/bg_header.jpg);
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;	
+	font-size: 12;
+	font-family: 'Microsoft Sans Serif' , Tahoma, Arial, Verdana, Sans-Serif;
+	vertical-align:bottom ;
+}
+.Header div
+{
+	padding-top: 6px;
+	text-align: center;
+	font-size: 12px;
+	font-weight: bold;
+}
+.Header, td
+{
+	font-size: 12;
+	font-family: Arial,'Microsoft Sans Serif' , Tahoma,  Verdana, Sans-Serif;
+	max-width: 100%;
+}
+
+.Label img
+{
+	max-width: 800px;
+}
+
+.Search
+{
+    VERTICAL-ALIGN: middle;
+    WIDTH: 100%;
+    COLOR: #666666;
+    HEIGHT: 22px;
+    TEXT-ALIGN: right
+}
+
+.Toolbar
+{
+	background-image: url(../images/ToolBar.Bachground.gif);
+	background-repeat:repeat-x;
+	height:40px;
+}
+.Toolbar input
+{
+	height: auto !important;
+	color: #000 !important;
+	background-color: #fff !important;
+	border: 1px solid #ccc !important;
+	font-size: 11pt !important;
+	font-family: 'Microsoft Sans Serif' , Tahoma, Arial, Verdana, Sans-Serif;
+}
+.Toolbar td
+{
+	color:#000000;
+	font-size: 10;
+	font-weight:bold;
+	font-family: 'Microsoft Sans Serif' , Tahoma, Arial, Verdana, Sans-Serif;
+}
+.ButtonBar
+{
+	background-image: url(../images/ToolBar.Bachground.gif);
+	background-repeat: repeat-x;
+	cursor: default;
+	height: 33px;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 5px;
+}
+.ButtonBar input,
+.ButtonBar button
+{
+}
+.ButtonBar td
+{
+	color:#000000;
+	font-size: 10;
+	font-weight:bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.Grid 
+{
+	border: solid 1px Silver; 
+}
+.Grid *
+{
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size:11;    
+    text-align: center;
+}
+.NewsGrid *
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:12;    
+    text-align: Left;
+}
+.GridHeader
+{
+
+}
+
+.GridHeader_Off, .GridHeader_On
+{
+    font-weight: bold;
+    padding: 4px 5px 4px 5px;
+    text-decoration: none;
+}
+.GridHeader_Off 
+{
+	background-image:url(../Images/toolbar.buttonbg.gif);
+	-moz-opacity: 0.70;
+}
+.GridHeader_On
+{
+    border-color: #316ac5;
+	background-color: #c1d2ee;
+}
+
+.GridHeader_Off a, .GridHeader_On a
+{
+    text-decoration: none;
+    color:Black ;
+    background:transparent;
+}
+.GridHeader_Off a:hover, .GridHeader_On a:hover
+{
+    text-decoration: underline;
+}
+.GridItem, .GridAltItem
+{
+}
+
+.GridItem>td:first-child+td, .NewsGridAltItem>td:first-child+td
+{
+    text-align: left;
+}
+
+.GridPager,
+.Grid .GridPager
+{
+	height: 22px;
+	background-image:url(../Images/toolbar.buttonbg.gif);
+	text-decoration: none;
+    color:Black ;
+}
+.GridPager a,
+.Grid .GridPager a,
+.GridPager span,
+.Grid .GridPager span,
+.GridPager td,
+.Grid .GridPager td
+{
+	background-color: Transparent;
+	color: #000;
+	text-align:center;
+}
+
+
+.FileManagerSeparator
+{
+	background-color:silver;
+	cursor:w-resize;
+}
+
+.FolderExplorer 
+{
+	border: none;  
+}
+
+.FolderExplorer table
+{
+	border:none;
+}
+.FolderExplorer td
+{
+	border:none;
+}
+.FolderExplorer *
+{
+	background-color:#FFFFFF;
+    font-family: 'Microsoft Sans Serif' , Tahoma, Arial, Verdana, Sans-Serif;
+    font-size:11;    
+    text-align: left;
+	text-decoration: none; 
+	color:Black;
+	cursor:default;
+}
+
+.FolderExplorerHeader
+{
+	font-weight: bold;
+	padding: 4px 5px 4px 5px;
+	border-right: solid 1px Silver; 
+	font-family: 'Microsoft Sans Serif' , Tahoma, Arial, Verdana, Sans-Serif;
+    font-size:11; 
+	background-image:url(../Images/toolbar.buttonbg.gif);
+	text-decoration: none;
+}
+
+.FileExplorer 
+{
+	border: none;  
+}
+
+.FileExplorer table
+{
+	border:none;
+}
+.FileExplorer td
+{
+	border:none;
+}
+.FileExplorer *
+{
+	background-color:#FFFFFF;
+    font-family: 'Microsoft Sans Serif' , Tahoma, Arial, Verdana, Sans-Serif;
+    font-size:11;    
+    text-align: left;
+	text-decoration: none; 
+	color:Black;
+	cursor:default;
+}
+.FileExplorerHeader
+{
+	font-weight: bold;
+	padding: 4px 5px 4px 5px;
+	border-right: solid 1px Silver; 
+	font-family: 'Microsoft Sans Serif' , Tahoma, Arial, Verdana, Sans-Serif;
+    font-size:11; 
+	background-image:url(../Images/toolbar.buttonbg.gif);
+	text-decoration: none;
+}
+
+.FileExplorerHeader td
+{
+	padding: 4px 5px 4px 5px;
+	border-right: solid 1px Silver; 
+	font-family: Arial, Helvetica, sans-serif;
+    font-size:11; 
+	background-image:url(../Images/toolbar.buttonbg.gif);
+	text-decoration: none;
+}
+
+.FileExplorerHeader a
+{
+	font-weight: bold;
+    text-decoration: none;
+    color:Black ;
+    background:transparent; 
+    cursor:hand;
+}
+.FileExplorerHeader a:hover
+{
+	font-weight: bold;
+    text-decoration: underline;
+    cursor:hand;
+}
+
+.FileExplorerItem
+{
+	background-color:White;
+}
+
+.FileExplorerItemSelected
+{
+	background-color:#dedede;	
+}
+
+
+
+
+
+.TB_Button_Off
+{
+	padding: 1px ;
+	margin: 1px ;
+	height: 21px;
+	border: #cec6b5 1px solid;
+	background: #efefef url(../images/toolbar.buttonbg.gif) repeat-x;
+
+}
+
+
+
+.TB_Text
+{
+	height: 21px;
+	padding-right: 5px;
+}
+.TB_Icon DIV
+{
+	width: 21px;
+	height: 21px;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+
+.PropertyPage
+{
+    FONT-SIZE: 11;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.PropertyPage tr
+{
+    BACKGROUND-COLOR: WHITE;
+}
+
+.AdminLabel 
+{
+    FONT-WEIGHT: bold;
+	font-size: 11;
+	font-family: Arial, Helvetica, sans-serif;
+    TEXT-ALIGN: right
+}
+
+
+
+
+.AdminTitle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    COLOR: black;
+    FONT-FAMILY: Arial
+}
+
+.AdminToolbar
+{
+    BORDER-RIGHT: buttonshadow 1px solid;
+    BORDER-TOP: buttonhighlight 1px solid;
+    BORDER-LEFT: buttonhighlight 1px solid;
+    BORDER-BOTTOM: buttonshadow 1px solid;
+    FONT-FAMILY: Arial;
+    BACKGROUND-IMAGE: url(../toolbar.buttonbg.gif);
+}
+.AdminWarning
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: Arial;
+    TEXT-ALIGN: center
+}
+.AdminNormal
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: Arial;
+    BACKGROUND-COLOR: #f7f7f7
+}
+.InactiveListItem
+{
+    FONT-STYLE: italic
+}
+
+.AdminButtonInset
+{
+    BORDER-RIGHT: buttonhighlight 1px solid;
+    BORDER-TOP: buttonshadow 1px solid;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: buttonshadow 1px solid;
+    BORDER-BOTTOM: buttonhighlight 1px solid;
+    FONT-FAMILY: Arial
+}
+.AdminButtonOutset
+{
+    BORDER-RIGHT: buttonshadow 1px solid;
+    BORDER-TOP: buttonhighlight 1px solid;
+    FONT-SIZE: 10pt;
+    BORDER-LEFT: buttonhighlight 1px solid;
+    BORDER-BOTTOM: buttonshadow 1px solid;
+    FONT-FAMILY: Arial
+}
+.AdminGroupsHeader
+{
+    FONT-SIZE: 10px;
+    font-weight:bold;
+    FONT-FAMILY:  Arial, Helvetica, sans-serif;
+}
+
+.CMButton
+{
+	height:22px;
+	FONT-SIZE: 10px;
+	background-image: url(../images/ToolBar.Bachground.gif);
+    FONT-FAMILY:  Arial, Helvetica, sans-serif;
+}
+
+.ActionButtonRight
+{
+	border-left-color:silver;
+	border-left-style:solid;
+	background-color:#828282;
+	border-left-width:thin;
+	width:1px;
+	border:none;
+}
+.ActionButtonLeft
+{
+	border-right-color:silver;
+	border-right-style:solid;
+	background-color:#f7f7f7;
+	border-right-width:thin;
+	width:2px;
+	border:none;
+}
+span.articlename
+{
+	padding-left: 3px;
+}
+.CMBreadCrumb A
+{
+    FONT-SIZE: 11px;  
+    FONT-FAMILY:  Arial, Helvetica, sans-serif;
+    color: #615d5b;    
+}
+.CMBreadCrumb
+{
+    padding-left: 3px;
+    padding-bottom: 2px;
+    FONT-SIZE: 11px;  
+    FONT-FAMILY:  Verdana, Arial, Helvetica, sans-serif;
+    COLOR: #615d5b;
+}
+.BreadCrumb_BackGround 
+{
+	background-color:#fff;
+}
+.NEWS_Left
+{
+	height:20px;
+	color:white;
+	background-color: #f6a0a5;
+	border: 0px;
+	font-size: 11;	
+	font-family: Arial, Helvetica, sans-serif;	
+}
+.NEWS_Cat
+{
+	color:brown;
+	background-color: #FFFFFF;
+	border-style: solid;
+	border: 1px;
+	border-color: #FFCC66;
+	font-size: 11;
+	font-weight:bold;
+	font-family: Arial, Helvetica, sans-serif;
+	border-left-color:#615d5d;
+	border-left-style:solid;	
+	border-left-width:1px;
+	border-top-color:#615d5d;
+	border-top-style:solid;	
+	border-top-width:1px;
+	border-right-color:#615d5d;
+	border-right-style:solid;	
+	border-right-width:1px;
+	border-bottom-color:#615d5d;
+	border-bottom-style:solid;	
+	border-bottom-width:1px;
+}
+.NEWS_Title
+{
+    font-size: 11;
+	font-weight:bold;
+	font-family: Arial, Helvetica, sans-serif;
+	border-left-color:#615d5d;
+	border-left-style:solid;	
+	border-left-width:1px;
+	border-top-color:#615d5d;
+	border-top-style:solid;	
+	border-top-width:1px;
+}
+.NEWS__
+{
+	border-left-color:gold;
+	border-left-style:solid;	
+	border-left-width:1px;
+	border-top-color:gold;
+	border-top-style:solid;	
+	border-top-width:1px;
+	border-right-color:gold;
+	border-right-style:solid;	
+	border-right-width:1px;
+	border-bottom-color:gold;
+	border-bottom-style:solid;	
+	border-bottom-width:1px;
+
+}
+.nav 
+{
+	BORDER-BOTTOM: #fabdd8 1px solid; 
+	BORDER-LEFT: #fabdd8 0px solid; 
+	PADDING-BOTTOM: 2px; 
+	BACKGROUND-COLOR: #fde3e7; 
+	MARGIN: 0px; 
+	PADDING-LEFT: 5px; 
+	PADDING-RIGHT: 0px; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	COLOR: #f8a2cc; 
+	FONT-SIZE: 12px; 
+	BORDER-TOP: #fabdd8 0px solid; 
+	BORDER-RIGHT: #fabdd8 0px solid; 
+	PADDING-TOP: 2px
+}
+A.nav 
+{
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	COLOR: #505050; 
+	FONT-SIZE: 12px; 
+	TEXT-DECORATION: none
+}
+.navm 
+{
+	BACKGROUND-IMAGE: url(/Content/IMAGES/bib/navm_bg.gif); 
+	BORDER-BOTTOM: #fff 0px solid; BORDER-LEFT: #fff 0px solid; 
+	PADDING-BOTTOM: 2px; 
+	TEXT-TRANSFORM: uppercase; MARGIN: 0px; 
+	PADDING-LEFT: 3px; PADDING-RIGHT: 0px; 
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+	COLOR: #ffffff; FONT-SIZE: 12px; 
+	BORDER-TOP: #fff 1px solid; 
+	BORDER-RIGHT: #fff 0px solid; 
+	PADDING-TOP: 2px
+}
+
+.changepasswordform table 
+{
+	border-width: 0;
+	width: 100%;
+}
+
+.changepasswordform table td.label
+{
+	width: 39%;
+}
+
+.changepasswordform table td.field
+{
+	width: 59%;
+}
+
+.changepasswordform .label 
+{
+	font-size: 12px;
+	font-weight: bold;
+	text-align: right;
+}
+
+.changepasswordform .field input
+{
+	width: 200px;
+	height: 18px;
+	font-size: 12px;
+	background-color: Silver;
+	border: 1px solid Black;
+}
+
+.changepasswordform .validator, 
+.changepasswordform .field span
+{
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.changepasswordform .buttons input
+{
+	font-size: 12px;
+	font-weight: bold;
+	background-color:ButtonFace;
+	color:ButtonText;
+	text-align:center;
+	height: 23px;
+	border: 1px solid Gray; 
+}
+
+#sg-popup
+{
+    font-family: Sans-Serif !important;
+    border-width: 3px;
+}
+
+#sg-popup p
+{
+    font-size: 16px !important;
+}
+
+#sg-popup a
+{
+    font-size: 12pt !important;
+}
+
+#sg-popup h1
+{
+    font-size: 16px !important;
+}
+
+#sg-popup h3
+{
+    font-size: 16px !important;
+}

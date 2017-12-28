@@ -1,0 +1,60 @@
+#header-content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; WIDTH: 962px; PADDING-TOP: 0px; max-width: 962px
+}
+.header_welcome_ul {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.header_welcome_ul {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 90%; FLOAT: right; PADDING-BOTTOM: 0px; COLOR: black; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.header_welcome_li {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; FONT-SIZE: 90%; FLOAT: right; PADDING-BOTTOM: 0px; COLOR: black; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.header_welcome_title {
+	PADDING-LEFT: 20px; FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: white; PADDING-TOP: 20px; FONT-FAMILY: "Trebuchet MS"; TOP: 200px
+}
+.header_welcome_li_a {
+	FONT-WEIGHT: bold; COLOR: #e4e4e3
+}
+.header_welcome_li_a:link {
+	FONT-WEIGHT: bold; COLOR: #e4e4e3
+}
+.header_welcome_li_a:link {
+	COLOR: #e4e4e3
+}
+.header_welcome_li_a:visited {
+	COLOR: #e4e4e3
+}
+.header_welcome_li_a:active {
+	COLOR: #e4e4e3
+}
+.header_welcome_li_a:hover {
+	CURSOR: pointer; COLOR: #f6a0a5
+}
+#main-content {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; WIDTH: 962px; PADDING-TOP: 0px
+}
+#footer {
+	MARGIN-TOP: 15px; WIDTH: 962px
+}
+#footer-copyright {
+	FONT-SIZE: 7pt; WIDTH: 962px
+}
+.footer-links {
+	FONT-SIZE: 8pt; COLOR: #000000
+}
+#footer-links A {
+	FONT-SIZE: 7pt; VERTICAL-ALIGN: middle; COLOR: black; TEXT-DECORATION: none
+}
+.footer-links:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.footer-links:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.footer-links:active {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.footer-links:hover {
+	CURSOR: pointer; COLOR: #000000; TEXT-DECORATION: underline
+}

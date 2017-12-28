@@ -1,0 +1,1903 @@
+body
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	background-color: #ffffff;
+}
+.BodyText
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+/*BEGIN: Header Styles*/
+/*BEGIN: Background Color */
+.DarkGrayBackground
+{
+	background-color: #bebebc;
+}
+.LightPinkBackground
+{
+	background-color: #fdebe7;
+}
+.MediumPinkBackground
+{
+	background-color: #fcdad5;
+}
+.DarkPinkBackground
+{
+	background-color: #f9bfc0;
+}
+.LightGrayBackground
+{
+	background-color: #e4e4e3;
+}
+.LightCoralPinkBackground
+{
+	background-color: #f6a0a5;
+}
+.DarkCoralPinkBackground
+{
+	background-color: #f2797f;
+}
+.MKIPlatinumLightBackground
+{
+	background-color: #767a7d;
+}
+.MKIPlatinumBackground
+{
+	background-color: #737371;
+}
+.MKIPlatinumDarkBackground
+{
+	background-color: #6c6967;
+}
+.MKIPlatinumDarkerBackground
+{
+	background-color: #615d5b;
+}
+.MKIBlackBackground
+{
+	background-color: #000000;
+}
+/*END: Background Color */
+/*BEGIN: Fore Color */
+.MKIDarkGrayForeColor
+{
+	color: #bebebc;
+}
+.MKILightPinkForeColor
+{
+	color: #fdebe7;
+}
+.MKIMediumPinkForeColor
+{
+	color: #fcdad5;
+}
+.MKIDarkPinkForeColor
+{
+	color: #f9bfc0;
+}
+.MKILightGrayForeColor
+{
+	color: #e4e4e3;
+}
+.MKILightCoralPinkForeColor
+{
+	color: #f6a0a5;
+}
+.MKIDarkCoralPinkForeColor
+{
+	color: #f2797f;
+}
+.MKIPlatinumLightForeColor
+{
+	color: #767a7d;
+}
+.MKIPlatinumForeColor
+{
+	color: #737371;
+}
+.MKIPlatinumDarkForeColor
+{
+	color: #6c6967;
+}
+.MKIPlatinumDarkerForeColor
+{
+	color: #615d5b;
+}
+.MKIPlatinumXDarkForeColor
+{
+	color: #534f4d;
+}
+.MKIPlatinumXXDarkForeColor
+{
+	color: #45413f;
+}
+.MKIBlackForeColor
+{
+	color: #000000;
+}
+/*END: Fore Color */
+.ConsultantName
+{
+	font-family: "Trebuchet MS";
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.HeaderBackground
+{
+	background-image: url(/Common/MasterPagesShared/images/Header_MaryKayBackground.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.CompactHeaderBackground
+{
+	background-image: url(/Common/MasterPagesShared/images/Header_MaryKayFullBackground.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.HeaderLink
+{
+	font-family: Verdana, Arial, Helvetica, sans-seriff;
+	font-size: 8pt;
+	color: #000000;
+	font-weight: bold;
+	text-decoration: underline;
+	padding-right: 10px;
+}
+
+.footerCurve
+{
+	background-color: #FFFFFF;
+	background-image: url(/Common/MasterPagesShared/images/Footer_Left.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+a.HeaderLink
+{
+	font-family: Verdana, Arial, Helvetica, sans-seriff;
+	font-size: 8pt;
+	color: #e4e4e3;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+a.HeaderLink:Hover
+{
+	font-family: Verdana, Arial, Helvetica, sans-seriff;
+	font-size: 8pt;
+	color: #f6a0a5;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.Search
+{
+	font-family: Verdana, Arial, Helvetica, sans-seriff;
+	font-size: 8pt;
+	color: #f6a0a5;
+	font-weight: bold;
+	text-decoration: underline;
+}
+a.Search
+{
+	font-family: Verdana, Arial, Helvetica, sans-seriff;
+	font-size: 8pt;
+	color: #f6a0a5;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+a.Search:hover
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.SearchBox
+{
+	width: 275px;
+	height: 14px;
+	font-size: 13px;
+	color: #ffffff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #000000;
+	border: none;
+}
+.WelcomeText
+{
+	font-family: "Trebuchet MS";
+	font-size: 18px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.RadioText
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	height: 12px
+}
+/*END: Header Styles*/
+/*BEGIN: Bread Crumb Styles*/
+.MKIBreadCrumbs
+{
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #E7E7E7;
+	height: 15px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	vertical-align: middle;
+	color: #615d5b;
+	letter-spacing: 1px;
+}
+.MKIBreadCrumbs a
+{
+	color: #615d5b;
+}
+
+.breadCrumbSeparator
+{
+	font-size: 7px;
+}
+.nodeStyle
+{
+	padding-left: 2px;
+}
+.currentNodeStyle
+{
+}
+.RootNodeStyle
+{
+	padding-left: 3px;
+}
+
+
+/*END: Bread Crumb Styles*/
+.MKIContentArea
+{
+	background-color: #c0bfbf;
+	vertical-align: top;
+}
+/*BEGIN: Left Nav Styles*/
+.MKISideBar
+{
+	background-color: #e7e7e7;
+	background-image: url(/Common/MasterPagesShared/images/Footer_Left.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+.MKILeftNav
+{
+	max-width: 167px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #515050;
+}
+.MKILeftNav a
+{
+	color: #515050;
+}
+.MKILeftNavHover
+{
+	background-color: #FCDAD5;
+	text-decoration: none;
+	background-image: url(/Common/MasterPagesShared/images/smBullet.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+	font-style: normal;
+}
+/*END: Left Nav Styles*/
+/*BEGIN: Global Menu Styles*/
+.MKIMenu
+{
+	height: 20px;
+	background-color: #615d5d;
+}
+.MKIMenuItem
+{
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: white;
+	background-color: #615d5d;
+	text-align: left;
+	height: 16px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 3px;
+}
+a.MKIMenuItem
+{
+	color: white;
+	height: 12px;
+	display: block;
+	text-decoration: none;
+}
+.MKIMenuItemHover
+{
+	background-color: #F6A0A5;
+	height: 100%;
+	padding-top: 2px;
+	padding-left: 3px;
+	padding-bottom: 2px;
+}
+a.MKIMenuItemHover
+{
+	text-decoration: none;
+	width: 100%;
+	height: 12px;
+	display: block;
+}
+.MKISubMenu
+{
+	border-top: dimgray 1px solid;
+}
+.MKISubMenuItem
+{
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: white;
+	background-color: #615d5d;
+	text-align: left;
+	text-indent: 8px;
+	height: 18px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-right: 5px;
+}
+a.MKISubMenuItem
+{
+	color: white;
+	height: 12px;
+	display: block;
+	text-decoration: none;
+}
+.MKISubMenuItemHover
+{
+	background-color: #F6A0A5;
+}
+a.MKISubMenuItemHover
+{
+	display: block;
+	text-decoration: none;
+	width: 100%;
+	height: 12px;
+}
+/*END: Global Menu Styles*/
+/*BEGIN: Global Footer Styles */
+.MKIFooterMenuItem
+{
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: black;
+	text-align: center;
+}
+a.MKIFooterMenuItem
+{
+	text-decoration: none;
+}
+a.MKIFooterMenuItem:hover
+{
+	text-decoration: underline;
+}
+/*END: Global Footer Styles */
+/*BEGIN: Content Boxes */
+
+div.MKIBox456
+{
+	width: 456px;
+	text-align: center;
+}
+div.MKIBox228
+{
+	width: 228px;
+	text-align: center;
+}
+div.MKIBox166
+{
+	width: 166px;
+	text-align: center;
+}
+/*END: Content Boxes */
+/*BEGIN: Container */
+.MenuContainerTop
+{
+	padding-top: 200px;
+	margin: 0;
+	padding: 9px 0px 0 0px;
+	background: url(/Common/MasterPagesShared/images/boxGraphics/rounded-top.gif) top left no-repeat;
+}
+.container
+{
+	width: 167px;
+	float: left;
+	color: #666;
+	background: url(/Common/MasterPagesShared/images/boxGraphics/rounded-top.gif) top left no-repeat;
+}
+.container a
+{
+	padding-top: 200px;
+	margin: 0;
+	padding: 19px 9px 0 9px;
+}
+.space
+{
+	margin-top: 20px;
+}
+/*END: Container */
+
+/*Begin: Profile*/
+.HeaderBold
+{
+	font-size: 14pt;
+	color: Black;
+	font-family: Arial;
+}
+/*End Profile*/
+
+.SiteMapTD
+{
+	width: 100%;
+	background-color: #FDEBE7;
+	border-style: none;
+	border-width: medium;
+	border-color: Blue;
+	overflow: scroll;
+}
+
+.SiteMapTbl
+{
+	border-style: none;
+	border-width: thin;
+	border-color: Red;
+	width: 100px;
+	overflow: auto;
+	background-color: #FDEBE7;
+}
+
+
+/*******************************************************************************************************************\
+ * content722 -- single space for content area                                                                      *
+ *      this is a single white content area which can contain one or two columns of sub-content                     *
+ *                                                                                                                  *
+ *      if content requires 2 columns, primary content should go in "column1", with secondary content in "column2"  *
+ *      /Common/MasterPagesShared/images for primary content should be no more than 300 pixels in width                                       *
+ *      /Common/MasterPagesShared/images for secondary content should be no more than 130 pixels in width                                     *
+ *                                                                                                                  *
+ *      if column division is not required, do not use the column divs                                              *
+\*******************************************************************************************************************/
+div.content722
+{
+	width: 722px;
+	background-color: #ffffff;
+	margin: 20px;
+	padding: 0;
+	background-image: url(/Common/MasterPagesShared/images/bkg_content722_mid.gif);
+	background-repeat: repeat-y;
+}
+div.divided
+{
+	/* **** used for pages where content area is divided into two columns **with a dividing line between them** **** */
+	background-image: url(/Common/MasterPagesShared/images/bkg_content722_mid_divided.gif);
+	background-repeat: repeat-y;
+}
+.content722 div.start
+{
+	margin: 0;
+	padding: 0;
+	background-image: url(/Common/MasterPagesShared/images/bkg_content722_top.gif);
+	background-repeat: no-repeat;
+	height: 20px;
+}
+.content722 div.end
+{
+	margin: 0;
+	padding: 0;
+	background-image: url(/Common/MasterPagesShared/images/bkg_content722_btm.gif);
+	background-repeat: no-repeat;
+	height: 20px;
+	clear: both;
+}
+.content722 h1
+{
+	font-weight: bold;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+.content722 h1 a
+{
+	color: #000000;
+	text-decoration: underline;
+}
+.content722 h1 a:hover
+{
+	color: #666666;
+	text-decoration: underline;
+}
+.content722 p
+{
+	font-size: 12px;
+	margin: 0;
+	padding: 0 0 1em 0;
+	line-height: 1.4em;
+}
+.content722 li
+{
+	font-size: 12px;
+	margin: 0;
+	padding: 0 0 1em 0;
+	line-height: 1.4em;
+}
+.content722 .datestamp
+{
+	font-size: 10px;
+	margin: 0;
+	padding: 0;
+	line-height: 1.4em;
+	color: #555555;
+}
+
+/* ****************************** div.column1 ***************************** */
+.content722 div.column1
+{
+	margin: 0 0 0 15px;
+	float: left;
+	width: 300px;
+	display: inline; /* required to resolve the double-margin problems in IE */
+}
+.content722 div.column1 img
+{
+	margin: 0 auto;
+}
+
+/* ****************************** div.column2 ***************************** */
+.content722 div.column2
+{
+	width: 365px;
+	margin: 0 15px 0 0;
+	float: right;
+	display: inline; /* required to resolve the double-margin problems in IE */
+}
+.content722 .column2 div.featureitem
+{
+	margin: 0 0 20px 0;
+	padding: 0 0 10px 0;
+	border-bottom: solid 1px #000000;
+}
+.content722 .column2 div.featureitem p
+{
+	margin: 0 0 0 140px;
+	font-size: 11px;
+}
+.content722 .column2 div.featureitem h1
+{
+	margin: 0 0 0 140px;
+	font-size: 13px;
+}
+.content722 .column2 .featureitem img
+{
+	float: left;
+}
+
+
+
+/* ****************************** div.etools ***************************** */
+div.etools h1
+{
+	background-image: url(/Common/MasterPagesShared/images/bkg_content922_top_headline.gif);
+	background-repeat: no-repeat;
+	margin-top: -20px;
+	padding: 1px 15px 2px 15px;
+	text-decoration: underline;
+}
+div.etools h2
+{
+	font-weight: bold;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+}
+div.etools p
+{
+}
+div.etools ul
+{
+	margin: 0;
+	padding: 0;
+}
+div.etools li
+{
+	margin: 0 15px;
+	padding: 0;
+	font-size: 11px;
+}
+
+
+div.etools div.info
+{
+	margin: 0 0 0 15px;
+	float: left;
+	width: 195px;
+	display: inline; /* required to resolve the double-margin problems in IE */
+}
+div.etools div.details
+{
+	width: 495px;
+	margin: 0 15px 0 0;
+	float: right;
+	display: inline; /* required to resolve the double-margin problems in IE */
+	border: solid 1px #000000;
+}
+
+/*******************************************************************************************************************\
+ * content922 -- single space for content area                                                                      *
+ *      this is a single white content area which can contain one or two columns of sub-content                     *
+ *                                                                                                                  *
+ *      if content requires 2 columns, primary content should go in "column1", with secondary content in "column2"  *
+ *      /Common/MasterPagesShared/images for primary content should be no more than 300 pixels in width                                       *
+ *      /Common/MasterPagesShared/images for secondary content should be no more than 130 pixels in width                                     *
+ *                                                                                                                  *
+ *      if column division is not required, do not use the column divs                                              *
+\*******************************************************************************************************************/
+div.content922
+{
+	width: 922px;
+	background-color: #ffffff;
+	margin: 20px;
+	padding: 0;
+	background-image: url(/Common/MasterPagesShared/images/bkg_content922_mid.gif);
+	background-repeat: repeat-y;
+}
+div.divided
+{
+	/* **** used for pages where content area is divided into two columns **with a dividing line between them** **** */
+	background-image: url(/Common/MasterPagesShared/images/bkg_content922_mid_divided.gif);
+	background-repeat: repeat-y;
+}
+.content922 div.start
+{
+	margin: 0;
+	padding: 0;
+	background-image: url(/Common/MasterPagesShared/images/bkg_content922_top_pink.gif);
+	background-repeat: no-repeat;
+	height: 20px;
+}
+.content922 div.end
+{
+	margin: 0;
+	padding: 0;
+	background-image: url(/Common/MasterPagesShared/images/bkg_content922_btm_pink.gif);
+	background-repeat: no-repeat;
+	height: 20px;
+	clear: both;
+}
+.content922 h1
+{
+	font-weight: bold;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+.content922 h1 a
+{
+	color: #000000;
+	text-decoration: underline;
+}
+.content922 h1 a:hover
+{
+	color: #666666;
+	text-decoration: underline;
+}
+.content922 p
+{
+	font-size: 12px;
+	margin: 0;
+	padding: 0 0 1em 0;
+	line-height: 1.4em;
+}
+.content922 li
+{
+	font-size: 12px;
+	margin: 0;
+	padding: 0 0 1em 0;
+	line-height: 1.4em;
+}
+.content922 .datestamp
+{
+	font-size: 10px;
+	margin: 0;
+	padding: 0;
+	line-height: 1.4em;
+	color: #555555;
+}
+
+/* ****************************** div.column1 ***************************** */
+.content922 div.column1
+{
+	margin: 0 0 0 15px;
+	float: left;
+	width: 300px;
+	display: inline; /* required to resolve the double-margin problems in IE */
+}
+.content922 div.column1 img
+{
+	margin: 0 auto;
+}
+
+/* ****************************** div.column2 ***************************** */
+.content922 div.column2
+{
+	width: 365px;
+	margin: 0 15px 0 0;
+	float: right;
+	display: inline; /* required to resolve the double-margin problems in IE */
+}
+.content922 .column2 div.featureitem
+{
+	margin: 0 0 20px 0;
+	padding: 0 0 10px 0;
+	border-bottom: solid 1px #000000;
+}
+.content922 .column2 div.featureitem p
+{
+	margin: 0 0 0 140px;
+	font-size: 11px;
+}
+.content922 .column2 div.featureitem h1
+{
+	margin: 0 0 0 140px;
+	font-size: 13px;
+}
+.content922 .column2 .featureitem img
+{
+	float: left;
+}
+
+/*******************************************************************************************************************\
+ * up/down arrows                                                                                                   *
+\*******************************************************************************************************************/
+
+/*big box*/
+.box .arrows ul
+{
+	display: inherit;
+	float: right;
+	list-style-type: none;
+	position: absolute; /*clear:both;*/
+	padding: 0 0 0 0;
+	margin: -15px 0 0 175px;
+}
+
+.box .arrows li
+{
+	float: left;
+	display: inherit;
+	width: auto;
+}
+
+.box .arrows a
+{
+	display: block;
+	font-size: 11px;
+	text-decoration: none;
+	padding: 0px 0px 0px 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+
+.box .arrows a:hover
+{
+	height: 20px;
+}
+/*small box*/
+.smbox
+{
+	margin-top: 20px;
+	height: 180px;
+	width: 166px;
+	background: url(/Common/MasterPagesShared/images/boxGraphics/div-bottomsm.gif) no-repeat bottom left;
+}
+.smboxprofile
+{
+	margin-top: 20px;
+	width: 166px;
+	background: url(/Common/MasterPagesShared/images/boxGraphics/div-bottomsm.gif) no-repeat bottom left;
+}
+.smboxprofile h3
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 6px 8px 4px 10px;
+	font-size: 12px;
+	color: #FFFFFF;
+	border-bottom: 1px solid #666666;
+	background: url(/Common/MasterPagesShared/images/boxGraphics/h3-sm.gif) no-repeat top left;
+}
+.smbox h3
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 6px 8px 4px 10px;
+	font-size: 12px;
+	color: #FFFFFF;
+	border-bottom: 1px solid #666666;
+	background: url(/Common/MasterPagesShared/images/boxGraphics/h3-sm.gif) no-repeat top left;
+}
+.smbox h3 a
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.smbox dl
+{
+	margin: 0;
+	margin-top: -5px;
+	
+	list-style: none;
+	
+	/*temp change*/
+	padding: 2px 3px  3px  2px;
+	/*width: 100%;*/
+}
+.smboxtitle
+{
+	font-family: "Trebuchet MS" , Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;
+	margin: 0 0 6px;
+	padding: 0;
+	list-style: none;
+}
+.smboxdescription
+{
+	font-family: "Trebuchet MS" , Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	margin: 0 0 6px;
+	margin-top: -8px;
+	padding: 0;
+	list-style: none;
+	line-height: 12px;
+}
+
+.smbox dl a
+{
+	font-family: "Trebuchet MS" , Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: underline;
+	color: #F2797F;
+}
+
+.smbox dl a:hover
+{
+	text-decoration: none;
+}
+
+.smbox .smarrows ul
+{
+	display: inherit;
+	float: right;
+	list-style-type: none;
+	position: absolute; /*clear:both;*/
+	padding: 0 0 0 0;
+	margin: -15px 0 0 95px;
+}
+
+.smbox .smarrows li
+{
+	float: left;
+	display: inherit;
+	width: auto;
+}
+
+.smbox .smarrows a
+{
+	display: block;
+	font-size: 11px;
+	text-decoration: none;
+	padding: 0px 0px 0px 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-image: none;
+}
+
+.profile a
+{
+	margin-left: 1px;
+	margin-right: 1px;
+	display: block;
+	max-width: 167px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	padding-left: 15px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	color: #515050;
+	font-style: normal;
+}
+
+.profile a:hover
+{
+	background-color: #FCDAD5;
+	text-decoration: none;
+	background-image: url(/Common/MasterPagesShared/images/smBullet.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+	font-style: normal;
+}
+
+
+/* end up/down arrows */
+
+/*******************************************************************************************************************\
+ * Side navigation                                                                                                  *
+\*******************************************************************************************************************/
+
+#sidebar
+{
+	float: center;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 20px;
+}
+
+#sidebar .topRight
+{
+	background-image: url(/Common/MasterPagesShared/images/PinkBox_TopRight.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#sidebar .topLeft
+{
+	background-image: url(/Common/MasterPagesShared/images/PinkBox_TopLeft.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+#sidebar .bottomRight
+{
+	background-image: url(/Common/MasterPagesShared/images/PinkBox_BottomRight.gif);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+#sidebar .bottomLeft
+{
+	background-image: url(/Common/MasterPagesShared/images/PinkBox_BottomLeft.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+
+#sideNav .container ul
+{
+	display: block;
+	list-style-type: none;
+	position: relative;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+
+#sideNav .container li
+{
+	display: inherit;
+	width: auto;
+}
+
+#sideNav
+{
+	height: 265px;
+	width: 167px;
+	margin-bottom: 20px;
+	background: url(/Common/MasterPagesShared/images/BoxGraphics/rounded-bottom.gif) bottom right no-repeat;
+}
+
+#sideNav a
+{
+	margin-left: 1px;
+	margin-right: 1px;
+	display: block;
+	max-width: 167px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	padding-left: 15px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	color: #515050;
+	font-style: normal;
+}
+
+#sideNav a:hover
+{
+	background-color: #FCDAD5;
+	text-decoration: none;
+	background-image: url(/Common/MasterPagesShared/images/smBullet.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+	font-style: normal;
+}
+
+
+#MKISideNav
+{
+	width: 167px;
+	margin-bottom: 20px;
+	background: url(/Common/MasterPagesShared/images/BoxGraphics/rounded-bottom.gif) top right no-repeat;
+}
+
+#MKISideNav a
+{
+	margin-left: 1px;
+	margin-right: 1px;
+	display: block;
+	max-width: 167px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	padding-left: 15px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	color: #515050;
+	font-style: normal;
+}
+
+#MKISideNav span
+{
+	margin-left: 1px;
+	margin-right: 1px;
+	display: block;
+	max-width: 167px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	padding-left: 15px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	color: #515050;
+	font-style: normal;
+}
+#MKISideNav a:hover
+{
+	background-color: #FCDAD5;
+	text-decoration: none;
+	background-image: url(/Common/MasterPagesShared/images/smBullet.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+	font-style: normal;
+}
+#MKISideNav span:hover
+{
+	background-color: #FCDAD5;
+	text-decoration: none;
+	background-image: url(/Common/MasterPagesShared/images/smBullet.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+	font-style: normal;
+}
+.MKISideNavBottom
+{
+	height: 11px;
+	width: 167px;
+	background: url(/Common/MasterPagesShared/images/BoxGraphics/rounded-bottom.gif);
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+/* end side nav */
+
+
+/*******************************************************************************************************************\
+ * Global navigation menu                                                                                           *
+\*******************************************************************************************************************/
+
+
+#globalNav ul
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+#globalNav li
+{
+	float: left;
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+#globalNav a
+{
+	display: block;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+	padding: 5px 20px 7px 20px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+
+#globalNav a:hover
+{
+	background-image: url(/Common/MasterPagesShared/images/bullet.gif);
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-color: #F6A0A5;
+}
+
+/* end global nav */
+/* Start: Action Items and Alerts */
+.MKIAlertsItem
+{
+	padding-top: 10px;
+}
+.MKIAlerts
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #f2797f;
+	font-weight: bold;
+}
+.MKIAlerts a:link
+{
+	color: #f2797f;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.MKIAlerts a:visited
+{
+	color: #f2797f;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.MKIAlerts a:hover
+{
+	color: #000000;
+	font-weight: bold;
+	background-color: #f2797f;
+	text-decoration: none;
+}
+.MKIAlerts a:active
+{
+	color: #000000;
+	font-weight: bold;
+	background-color: #f2797f;
+	text-decoration: none;
+}
+.MKIHeading
+{
+	font-family: Verdana, Arial, Helvetica, sans-seriff;
+	font-size: 7pt;
+	color: #f2797f;
+	font-weight: bold;
+	text-decoration: none;
+}
+.MKITextSmall
+{
+	font-family: Verdana, Arial, Helvetica, sans-seriff;
+	font-size: 7pt;
+	color: Black;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+.div.MKIActionItems
+{
+	width: 228px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	text-decoration: none;
+}
+.MKICalendar
+{
+	width: 228px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.MKICalendarSubTab
+{
+	font-size: 7pt;
+	color: black;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-weight:bold;
+		
+}
+/* End: Action Items and Alerts */
+/*BEGIN: Content Area Div */
+.MKIStreamingContentArea
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+/*END: Content Area Div */
+/*BEGIN: Dark Gray Box */
+.DK_Gray_TR
+{
+	background-image: url(/Common/MasterPagesShared/Images/BoxGraphics/DK_Gray_TR.gif);
+	background-repeat: no-repeat;
+	height: 10;
+	width: 10;
+}
+.DK_Gray_BR
+{
+	background-image: url(/Common/MasterPagesShared/Images/BoxGraphics/DK_Gray_BR.gif);
+	background-repeat: no-repeat;
+	height: 10;
+	width: 10;
+}
+.DK_Gray_BL
+{
+	background-image: url(/Common/MasterPagesShared/Images/BoxGraphics/DK_Gray_BL.gif);
+	background-repeat: no-repeat;
+	height: 10;
+	width: 10;
+}
+.DK_Gray_TL
+{
+	background-image: url(/Common/MasterPagesShared/Images/BoxGraphics/DK_Gray_TL.gif);
+	background-repeat: no-repeat;
+	height: 10;
+	width: 10;
+}
+/*END: Dark Gray Box */
+/*BEGIN: White Box */
+.WhiteBoxTopLeft
+{
+	background-color: White;
+	background-image: url(/Common/MasterPagesShared/Images/WhiteBox_TopLeft.gif);
+	background-repeat: no-repeat;
+}
+.WhiteBoxTop
+{
+	background-color: White;
+	background-image: url(/Common/MasterPagesShared/Images/WhiteBox_Top.gif);
+	background-repeat: repeat-x;
+}
+.WhiteBoxTopRight
+{
+	background-color: White;
+	background-image: url(/Common/MasterPagesShared/Images/WhiteBox_TopRight.gif);
+	background-repeat: no-repeat;
+}
+.WhiteBoxLeft
+{
+	background-color: White;
+	background-image: url(/Common/MasterPagesShared/Images/WhiteBox_Left.gif);
+	background-repeat: repeat-y;
+}
+.WhiteBoxRight
+{
+	background-color: White;
+	background-image: url(/Common/MasterPagesShared/Images/WhiteBox_Right.gif);
+	background-repeat: repeat-y;
+}
+.WhiteBoxBottomLeft
+{
+	background-color: White;
+	background-image: url(/Common/MasterPagesShared/Images/WhiteBox_BottomLeft.gif);
+	background-repeat: no-repeat;
+	width: 11px;
+	height: 11px;
+}
+.WhiteBoxBottom
+{
+	background-color: White;
+	background-image: url(/Common/MasterPagesShared/Images/WhiteBox_Bottom.gif);
+	background-repeat: repeat-x;
+	height: 11px;
+}
+.WhiteBoxBottomRight
+{
+	background-color: White;
+	background-image: url(/Common/MasterPagesShared/Images/WhiteBox_BottomRight.gif);
+	background-repeat: no-repeat;
+	width: 11px;
+	height: 11px;
+}
+.WhiteBox
+{
+	background-color: White;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	border-top-style: none;
+	padding-top: 0px;
+	border-right-style: none;
+	border-left-style: none;
+	border-bottom-style: none;
+	vertical-align:top;
+}
+/*END: White Box */
+
+/*BEGIN: Button Styles */
+.NavBananaButton, .NavButton
+{
+	font-size: 8pt;
+	margin: 2px;
+	height: 20px;
+}
+.NavBananaButton
+{
+	background-color: #f9bfc0;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-weight: bold;
+}
+.NavButton
+{
+	background-color: #e4e4e3;
+}
+/*END: Button Styles */
+.MKIActionItemTitle
+{
+	padding-left: 10px;
+	text-align: left;
+	height: 20px;
+}
+
+.MKIActionItemsBox
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 480px;
+	color: White;
+	background-color: #737371;
+	background-image: url(/Common/MasterPagesShared/Images/ActionItemHeader.gif);
+}
+
+.MKIActionItemsBox .Pages
+{
+	/*display: run-in;*/
+}
+
+.MKIActionItemsBox .Pages .Page
+{
+	color: Black;
+	text-align: left;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #ffffff;
+	border-top: #767A7D 1px solid;
+	border-right: #767A7D 1px solid;
+	border-left: #767A7D 1px solid;
+	width: 448px;
+}
+
+.MKICalendarBox
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 248px;
+	color: White;
+	background-color: #737371;
+	background-image: url(/Common/MasterPagesShared/Images/CalendarHeader.gif);
+}
+
+.MKICalendarBox .Pages
+{
+}
+
+.MKICalendarBox .Pages .Page
+{
+	color: Black;
+	text-align: left;
+	padding-left: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border-top: 0;
+	background-color: #ffffff;
+	border-right: #767A7D 1px solid;
+	border-left: #767A7D 1px solid;
+	line-height: 20px;
+	width: 236px;
+}
+
+.MKIAlertTabs .InactiveTab
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 104.5px;
+	height: 18px;
+	color: White;
+	background-color: #615D5B;
+	padding-top: 3px;
+	padding-left: 9px;
+	padding-right: 8px;
+	background-image: url(/Common/MasterPagesShared/Images/AlertsTab.jpg);
+	display: run-in;
+	text-align: center;
+}
+
+.MKIAlertTabs .ActiveTab
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 104.5px;
+	height: 18px;
+	color: White;
+	background-color: #615D5B;
+	padding-top: 3px;
+	padding-left: 9px;
+	padding-right: 8px;
+	background-image: url(/Common/MasterPagesShared/Images/AlertsTabSelected.jpg);
+	display: run-in;
+	text-align: center;
+}
+
+.MKIAlertTabs .Pages
+{
+	display: run-in;
+}
+
+
+.MKIAlertTabs .Pages .Page
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border-top: 0;
+	padding: 8px;
+	background-color: #ffffff;
+	border-right: #767A7D 1px solid;
+	border-left: #767A7D 1px solid;
+	border-top: #767A7D 1px solid;
+	line-height: 20px;
+	min-height: 200px;
+	width: 230px;
+}
+
+.ErrorStack
+{
+	font-family: Courier;
+	font-size: 10px;
+}
+
+/* These styles contain RARELY CHANGED rules used when the Menu control adapter is enabled. */
+/* These rules correspond to the "pure CSS menu" technique that have been evolving over the past several years. */
+
+.MKIM ul.ANM
+{
+	position: relative;
+}
+
+.MKIM ul.ANM
+{
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+.MKIM ul.ANM ul
+{
+	margin: 0;
+	padding: 0;
+	display: block;
+}
+
+.MKIM ul.ANM li
+{
+	/*position: relative;*/
+	list-style: none;
+}
+
+.MKIM ul.ANM li a
+{
+	display: block;
+	text-decoration: none;
+}
+.MKIM ul.ANM li span
+{
+	display: inline;
+	text-decoration: none;
+}
+
+.MKIM ul.ANM ul
+{
+	position: absolute;
+	visibility: hidden;
+}
+
+/* Add more rules here if your menus have more than three (3) tiers */
+.MKIM ul.ANM li:hover ul ul
+{
+	visibility: hidden;
+}
+.MKIM ul.ANM li.ANM-Hover ul ul
+{
+	visibility: hidden;
+}
+
+/* Add more rules here if your menus have more than three (3) tiers */
+
+.MKIM ul.ANM li:hover ul
+{
+	/*Display tier 2*/
+	visibility: visible;
+}
+
+.MKIM .ANM-Vertical ul.ANM li
+{
+	width: 100%;
+}
+
+
+.MKIM .ANM-Horizontal
+{
+	position: relative;
+	top: 0;
+	/*z-index: 300;*/
+}
+
+.MKIM .ANM-Horizontal, .MKIM .ANM-Horizontal ul.ANM
+{
+	height: 20px;
+}
+
+.MKIM .ANM-Horizontal ul.ANM
+{
+	width: 950px;
+}
+
+.MKIM .ANM-Horizontal ul.ANM li.ANM-Root
+{
+	padding: 0 20px 0 3px;
+	line-height: 20px;
+	float: left;
+}
+
+.MKIM .ANM-Horizontal ul.ANM li.ANM-Leaf a
+{
+	line-height: normal;
+	height:1%;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.MKIM .ANM-Horizontal ul.ANM li.ANM-Leaf span
+{
+	display:inline-block;
+	line-height: normal;
+	height:1%;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+
+
+.MKIM .ANM-Horizontal ul.ANM ul
+{
+	left: 0;
+	top: 0;
+	width: 200px;
+}
+
+.MKIM .ANM-Horizontal ul.ANM ul
+{
+	top: 20px;
+}
+
+.MKIM .ANM-Horizontal ul.ANM ul ul
+{
+	top: 0;
+}
+
+.MKIM .ANM-Horizontal ul.ANM
+{
+	text-align: left;
+}
+.MKIM .ANM-Horizontal ul.ANM ul
+{
+	text-align: left;
+}
+.MKIM .ANM-Horizontal ul.ANM li
+{
+	text-align: left;
+}
+.MKIM .ANM-Horizontal ul.ANM ul li
+{
+	text-align: left;
+	
+	z-index:1001;
+}
+
+.MKIM .ANM-Horizontal ul.ANM li.ANM-Root ul.ANM-Sub
+{
+	border: groove 1px #615d5b;
+}
+
+
+.MKIM .ANM-Horizontal ul.ANM ul ul li
+{
+	display: block;
+}
+
+.MKIM .ANM-Horizontal ul.ANM li ul li.DisplayMenuOnLeft ul
+{
+	margin: 0 0 0 -200px;
+	visibility: visible;
+}
+
+.MKIM .ANM-Horizontal ul.ANM li ul li.DisplayMenuOnRight ul
+{
+	margin: 0 0 0 200px;
+	visibility: visible;
+}
+
+.MKIM .ANM-Horizontal ul.ANM li.ANM-Root span
+{
+	color: White;
+}
+
+.MKIM .ANM-Horizontal ul.ANM li.ANM-Root ul.ANM-Sub span
+{
+	color: Black;
+	font-weight: normal;
+}
+
+
+
+.MKIM .ANM-Horizontal ul.ANM li.ANM-Root
+{
+	color: White;
+	display: inline-table;
+	
+	/*z-index: 100;*/
+}
+
+.MKIM .ANM-Horizontal ul.ANM
+{
+	background-color: #615D5D;
+}
+
+.MKIM .ANM-Horizontal ul
+{
+	background-color: White;
+}
+
+.MKIM ul.ANM ul
+{
+	/*z-index: 400;*/
+	position:absolute;
+}
+
+.MKIM ul.ANM ul ul
+{
+	width: 200px;
+}
+
+.MKIM ul.ANM li
+{
+	margin: 0;
+	padding: 0;
+	border-bottom: 0;
+}
+.MKIM ul.ANM li a
+{
+	margin: 0;
+	padding: 0;
+	border-bottom: 0;
+}
+.MKIM ul.ANM li span
+{
+	margin: 0;
+	padding: 0;
+	border-bottom: 0;
+	display: inline;
+}
+
+.MKIM ul.ANM li span.ANM-NonLink
+{
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: Black;
+}
+.MKIM ul.ANM li
+{
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: Black;
+}
+.MKIM ul.ANM li a
+{
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: Black;
+}
+.MKIM ul.ANM li span
+{
+	font-size: 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: Black;
+}
+.MKIM ul.ANM li.ANM-Leaf a
+{
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: Black;
+}
+.MKIM ul.ANM li.ANM-Leaf span
+{
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: Black;
+}
+.MKIM .ANM-Horizontal ul.ANM li a
+{
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: Black;
+}
+.MKIM .ANM-Horizontal ul.ANM li.ANM-Root ul li.ANM-Leaf a
+{
+	font-size: 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: Black;
+}
+
+.MKIM ul.ANM li a img
+{
+	border-style: none;
+	vertical-align: middle;
+}
+
+.MKIM ul.ANM li:hover a
+{
+	color: Black;
+}
+
+.MKIM ul.ANM li:hover span
+{
+	color: Black;
+}
+
+.MKIM ul.ANM li.ANM-Hover a
+{
+	color: Black;
+}
+.MKIM ul.ANM li.ANM-Hover span
+{
+	color: Black;
+}
+.MKIM ul.ANM li:hover li:hover a
+{
+	color: Black;
+}
+.MKIM ul.ANM li:hover li:hover span
+{
+	color: Black;
+}
+.MKIM ul.ANM li.ANM-Hover li.ANM-Hover a
+{
+	color: Black;
+}
+.MKIM ul.ANM li.ANM-Hover li.ANM-Hover span
+{
+	color: Black;
+}
+.MKIM ul.ANM li:hover li:hover ul a:hover
+{
+	color: Black;
+}
+.MKIM ul.ANM li:hover li:hover ul span.ANM-Hover
+{
+	color: Black;
+}
+.MKIM ul.ANM li.ANM-Hover li.ANM-Hover ul a:hover
+{
+	color: Black;
+}
+.MKIM ul.ANM li.ANM-Hover li.ANM-Hover ul span.ANM-Hover
+{
+	color: Black;
+}
+.MKIM ul.ANM li a:hover
+{
+	color: Black;
+}
+
+.MKIM ul.ANM li span.ANM-Hover
+{
+	color: Black;
+}
+
+.MKIM .ANM-Horizontal ul.ANM ul li.ANM-Arrow a.ANM-GroupLink
+{
+	background: url(/Common/MasterPagesShared/images/arrowRight.gif) right center no-repeat;
+}
+
+
+.MKIM .ANM-Horizontal ul.ANM ul li.ANM-Arrow
+{
+	height: 1%;
+	background: url(/Common/MasterPagesShared/images/arrowRight.gif) right center no-repeat;
+}
+
+.MKIM ul.ANM li:hover
+{
+	background-color: #F6A0A5;
+}
+
+.MKIM ul.ANM li.ANM-Hover
+{
+	background-color: #F6A0A5;
+}
+
+
+.ANM-Horizontal ul.ANM li a.ANM-NonLink
+{
+	float: left;
+}
+
+.MKIM .ANM-Horizontal ul.ANM ul li.ANM-Arrow:hover
+{
+	background-color: #F6A0A5;
+}
+
+.MKIM .ANM-Horizontal ul.ANM ul li.ANM-Arrow:hover
+{
+	background-color: #F6A0A5;
+}
+
+.MKIM .ANM-Horizontal ul.ANM ul li:hover
+{
+	background-color: #F6A0A5;
+}
+.HandCursor
+{
+	cursor: hand;
+}
+
+@media print
+{
+	.NonPrintableArea
+	{
+		display: none;
+	}
+	.PrintableArea
+	{
+		width: 100%;
+		left: 0px;
+		margin-left: 0px;
+		border-left: 0px;
+	}
+	.MainTable
+	{
+		width: 100%;
+	}
+}
+@media screen
+{
+	.MainTable
+	{
+		width: 100%;
+	}
+}
+@page
+{
+	margin: 0px;
+}
+.PWAPCounterText
+{
+	color: Black;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+}
+.PWAPCounter
+{
+	position: relative;
+	top: -87px;
+	z-index: 0;
+	left: 20px;
+}

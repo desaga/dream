@@ -1,0 +1,39 @@
+BODY {
+	FONT-SIZE: 8pt; COLOR: black; FONT-FAMILY: verdana, arial, helvetica, sans-serif
+}
+A {
+	FONT-SIZE: 8pt; COLOR: black; FONT-FAMILY: verdana,arial,helvetica,sans-serif; TEXT-DECORATION: underline
+}
+A:link {
+	COLOR: #f2797f
+}
+A:visited {
+	COLOR: #f2797f
+}
+A:active {
+	COLOR: #f2797f
+}
+#ViewDetailsCss A {
+	COLOR: black
+}
+A.DisabledLink {
+	CURSOR: default; TEXT-DECORATION: none
+}
+.FloatLeft450 {
+	FLOAT: left; WIDTH: 450px; MARGIN-RIGHT: 15px
+}
+.MaxWidth {
+	WIDTH: 100%
+}
+.ImgZeroBorder {
+	BORDER-RIGHT: transparent 0px solid; BORDER-TOP: transparent 0px solid; BORDER-LEFT: transparent 0px solid; BORDER-BOTTOM: transparent 0px solid
+}
+.ProductionHistoryTable_ColumnHeader {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; TEXT-ALIGN: right
+}
+.ProductionHistoryTable_Cell {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px
+}
+.ProductionHistoryTable_Cell {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; TEXT-ALIGN: right
+}

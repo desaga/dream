@@ -1,0 +1,1100 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif !important;
+	font-size: 12px !important;
+	color: #000000;
+	background-color: #ffffff;
+	margin: 10px !important;
+}
+
+.BodyText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+
+.floatLeft 
+{
+	float: left;
+}
+.ContentArea
+{
+	padding: 15px;
+}
+
+.HP_Content
+{
+	padding: 0 5px 5px 0;
+}
+
+.HeaderBackground {
+	background: url('/Content/Images/IntouchHeader/MKHeaderBackground.gif') no-repeat 190px;	
+	background-color: #000000;
+	color: #FFF;
+}
+.HeaderLinks
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif !important;
+	padding-top: 8px;
+	padding-bottom: 5px;
+	background: black;
+	border-left: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+}
+.HeaderLinks a
+{
+	font-size: 12px;
+	font-weight: normal;
+	vertical-align: bottom;
+	text-decoration: none;
+	color: #fff;
+	padding-left: 15px;
+
+}
+
+.HeaderLinks a:link {color: #fff;}
+.HeaderLinks a:hover {color: #fff;}
+.HeaderLinks a:visited {color: #fff;}
+
+#LanguageSelectorContainer {
+    float: right;
+    font-family: Arial,Helvetica,sans-serif;
+    height: 12px;
+    padding-right: 24px;
+    padding-top: 2px;
+    text-align: right;
+    width: 290px;
+}
+
+.GlobalNav {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.TertiaryNav {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #cccccc;
+	font-weight: bold;
+	height: 10px;
+}
+.BreadCrumb {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+.SearchBox 
+{
+	width: 275px;
+	height: 14px;
+	font-size: 13px;
+	color: #ffffff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #000000;
+	border: none;
+}
+.SearchRadioText
+{
+	color: #ffffff;
+	font-size: 12px;
+}
+.BorderLeft {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #CCC;
+}
+.BorderRight {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #CCC;
+}
+
+.BorderleftRight {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #CCC;
+	border-left-color: #CCC;
+	max-width:167px;
+	border-top-style: none;
+	border-bottom-style: none;	
+}
+
+.BorderTop {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #CCC;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.BorderSides {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	max-width:167px;
+}
+
+.Border Sides p{
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+	
+.BorderBottom {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	;
+	border-bottom-color: #CCC;
+}
+table.content1 {
+float: left; margin-left:20px; margin-top:20px;
+}
+.WelcomeText 
+{
+	padding-top: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-weight: lighter;
+}
+.ConsultantName {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-weight: lighter;
+}
+A.Search:link {
+	font-family: Verdana, Arial, Helvetica, sans-seriff;
+	font-size: 8pt;
+	color: #f6a0a5;
+	font-weight: bold;
+	text-decoration: none;
+}
+.SearchBox_TopLight {
+	background-image: url(/Content/Images/IntouchHeader/SearchBox_TopLight.gif);
+	background-repeat: repeat-x;
+}
+.SearchBox_BottomLight {
+	background-image: url(/Content/Images/IntouchHeader/SearchBox_BottomLLight.gif);
+	background-repeat: repeat-x;
+}
+.SearchBox_TopDark {
+	background-image: url(/Content/Images/IntouchHeader/SeachBox_TopDark.gif);
+	background-repeat: repeat-x;
+}
+.SearchBox_BottomDark {
+	background-image: url(/Content/Images/IntouchHeader/SeachBox_BottomDark.gif);
+	background-repeat: repeat-x;
+}
+A.Search:visited {font-family: Verdana, Arial, Helvetica, sans-seriff; font-size: 8pt; color: #f6a0a5; font-weight: bold;text-decoration: underline; 
+}
+A.Search:active {
+	font-family: Verdana, Arial, Helvetica, sans-seriff;
+	font-size: 8pt;
+	color: #f6a0a5;
+	font-weight: bold;
+	text-decoration: underline;
+}
+A.Search:hover {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #ffffff; font-weight: bold;text-decoration: underline;
+}
+
+.footerCurve{
+	background-color: #FFFFFF;
+	background-image: url(/Content/Images/IntouchHeader/Footer_Left.gif);
+	background-repeat: no-repeat;
+	background-position: left top;	
+}
+
+.Copyright
+{
+	padding-top: 10px;
+	text-align:center;
+	font-size:11px;
+	color:#666;
+	min-width:962px;
+}
+
+/*******************************************************************************************************************\
+ * Global navigation menu                                                                                           *
+\*******************************************************************************************************************/
+#globalNav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	width: 962px;
+}
+#globalNav li {
+	float: left;
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+	
+#globalNav a {
+	display: block;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration: none;
+	padding: 5px 11px 7px 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}	
+
+#globalNav a:hover {
+	/*background-image: url(/Content/Images/IntouchHeader/IntouchHeader/bullet.gif);*/
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-color: #F6A0A5;
+}
+#tertiaryNav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	width: 962px;
+}
+#tertiaryNav li {
+	float: right;
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+	
+#tertiaryNav a {
+	display: block;
+	font-size: 12px;
+	color:#000;
+	text-decoration: none;
+	padding: 0 15px 2px 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}	
+
+#tertiaryNav a:hover {
+	/*background-image: url(/Content/Images/IntouchHeader/bullet.gif);*/
+	background-repeat: no-repeat;
+	background-position: left center;
+	color: #F6A0A5;
+}
+
+#tertiaryNav2{
+	margin:30px 300px 0 100px;
+}
+#tertiaryNav2 ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	width: 962px;
+}
+#tertiaryNav2 li {
+	float: right;
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+	
+#tertiaryNav2 a {
+	display: block;
+	font-size: 12px;
+	color:#666;
+	text-decoration: none;
+	padding: 0 10px 2px 10px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}	
+
+#tertiaryNav2 a:hover {
+	/*background-image: url(/Content/Images/IntouchHeader/bullet.gif);*/
+	background-repeat: no-repeat;
+	background-position: left center;
+	color: #F6A0A5;
+}
+
+
+/* end global nav */
+
+
+/*******************************************************************************************************************\
+ * Side navigation                                                                                                  *
+\*******************************************************************************************************************/
+
+
+#sidebar{
+	float: center; 
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:20px;
+}
+
+.sideNavTabs {
+   font-size:12px;
+}
+
+.sideNavTabs a{
+	display:block;
+	height:25px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:auto;
+	color:#515050;
+	text-align:left;
+	text-decoration:none;
+	font-style: normal;
+
+	
+}
+
+.sideNavTabs a:hover{
+	background-color:#FCDAD5;
+	text-decoration:none;
+	/*background-image: url(/Content/Images/IntouchHeader/smBullet.gif);*/
+	background-repeat: no-repeat;
+	background-position: left center;
+	font-style: normal;
+
+}
+
+#sideNavTab1 {
+	background:#fff;
+	width:83px;
+	height:30px;
+	float:left;
+	border-right:thin;
+	border-right-color:#CCC;
+	border-right-style:solid;
+	text-align:left;
+}
+
+
+#sideNavTab2 {
+   background:url(/Content/Images/IntouchHeader/btnGradient_14.png) 0 0 repeat-x; 
+   width:80px; 
+   height:30px; 
+   float:left; 
+   text-align:center;
+}
+
+#sideNav .container ul{
+	display:block;
+	list-style-type:none;
+	position:relative;
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+}
+
+#sideNav .container li{
+	display:inherit;
+	width:auto;
+}
+#sideNav h3{
+	margin-left:15px;
+}
+#sideNavTitle{
+	margin-left:15px;
+	font-size:14px;
+	font-weight:bold;
+	margin-bottom:15px;
+}
+#sideNav{
+	height:auto;
+	width:240px;
+	margin-bottom:20px;
+}
+
+#sideNav a{
+	margin-left:1px;
+	margin-right:1px;
+	display:block;
+	max-width:167px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	padding-left:15px;
+	padding-bottom:2px;
+	padding-top:2px;
+	color:#515050;
+	font-style: normal;
+}
+
+#sideNav a:hover{
+	background-color:#FCDAD5;
+	text-decoration:none;
+	/*background-image: url(/Content/Images/IntouchHeader/smBullet.gif);*/
+	background-repeat: no-repeat;
+	background-position: left center;
+	font-style: normal;
+
+}
+
+/*sideNav custom styles for InTouchHomePage3.Master & template5 */
+
+.divNewsDeskContent
+{
+     min-height:150px;
+     height:auto !important;
+     height:150px; 
+}
+
+.divLestTalkContent
+{
+     min-height:150px;
+     height:auto !important;
+     height:150px; 
+}
+
+.divFavoriteLinksContent
+{
+     min-height:100px;
+     height:auto !important;
+     height:100px; 
+}
+
+.sideNavTabs a.sideNavLinkCarrot{
+	display:block;
+	height:auto;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:auto;
+	color:#515050;
+	text-align:left;
+	text-decoration:none;
+	font-style: normal;
+    background-image: url("/Content/Images/LetsTalkButtons/Carrot.png");
+	background-repeat: no-repeat;
+	background-position: 5px 5px;
+}
+
+.sideNavTabs a.sideNavLinkCarrot:hover{
+	background-color:#FCDAD5;
+	text-decoration:none;
+	background-image: url("/Content/Images/LetsTalkButtons/Carrot.png");
+	background-repeat: no-repeat;
+	background-position: 5px 5px;
+	font-style: normal;
+
+}
+
+#sideNav a.sideNavLinkCarrot{
+	display:block;
+	height:auto;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:auto;
+	color:#515050;
+	text-align:left;
+	text-decoration:none;
+	font-style: normal;
+    background-image: url("/Content/Images/LetsTalkButtons/Carrot.png");
+	background-repeat: no-repeat;
+	background-position: 5px 5px;
+}
+
+#sideNav a.sideNavLinkCarrot:hover{
+	background-color:#FCDAD5;
+	text-decoration:none;
+	background-image: url("/Content/Images/LetsTalkButtons/Carrot.png");
+	background-repeat: no-repeat;
+	background-position: 5px 5px;
+	font-style: normal;
+
+}
+
+.sideNavTabs a.sideNavViewAll{
+	font-size: 9px;
+	font-family:Arial, Verdana, Helvetica, sans-serif;
+	text-align:left;
+	vertical-align:bottom;
+	padding-left:5px;
+	padding-top:15px;
+	background-image: none;
+	height: auto;
+	display: inline;
+}
+.sideNavTabs a.sideNavViewAll:hover{
+	background-image: none;
+	height: auto;
+}
+
+#sideNav a.sideNavViewAll{
+	font-size: 9px;
+	font-family:Arial, Verdana, Helvetica, sans-serif;
+	text-align:left;
+	vertical-align:bottom;
+	padding-left:5px;
+	/*padding-top:15px;*/
+	background-image: none;
+	height: auto;
+	display: inline;
+}
+#sideNav a.sideNavViewAll:hover{
+	background-image: none;
+	height: auto;
+}
+
+.sideNavTabs a.NewsDeskNav{
+	display: inline;
+	height: auto;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color:#515050;
+	text-align:left;
+	text-decoration:none;
+	font-style: normal;
+	vertical-align:bottom;
+	margin-left:0px;
+	margin-right:0px;
+	padding-left:0px;
+	padding-bottom:0px;
+	padding-top:0px;
+	background-color: transparent;
+	background-image: none;
+}
+.sideNavTabs a.NewsDeskNav:hover{
+	background-image: none;
+	background-color: #FCDAD5;
+}
+
+#sideNav a.NewsDeskNav{
+	display: inline;
+	height: auto;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color:#515050;
+	text-align:left;
+	text-decoration:none;
+	font-style: normal;
+	vertical-align:bottom;
+	margin-left:0px;
+	margin-right:0px;
+	padding-left:0px;
+	padding-bottom:0px;
+	padding-top:0px;
+	background-color: transparent;
+	background-image: none;
+}
+#sideNav a.NewsDeskNav:hover{
+	background-image: none;
+	background-color: #FCDAD5;
+}
+
+.NewsDeskNavTable
+{
+    width:100%;
+}
+
+.NewsDeskNavTable td
+{
+    padding-top: 10px;
+}
+
+.divLetsTalkButtonGray
+{
+    background-image: url('/Content/Images/LetsTalkButtons/Gray_Right.gif');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.divLetsTalkButtonWhite
+{
+    background-image: url('/Content/Images/LetsTalkButtons/White_Right.gif');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.sideNavTabs a.sideNavLetsTalkButton{
+	display: block;
+	height: auto;
+	vertical-align:bottom;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	margin-top:0px;
+	padding-left:0px;
+	padding-bottom:0px;
+	padding-top:0px;
+	background-image: none;
+	border:0px;
+}
+.sideNavTabs a.sideNavLetsTalkButton:hover
+{
+    background-image: none;
+    display: block;
+	height: auto;
+	background-color: transparent;
+}
+
+#sideNav a.sideNavLetsTalkButton{
+	display: block;
+	height: auto;
+	vertical-align:bottom;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	margin-top:0px;
+	padding-left:0px;
+	padding-bottom:0px;
+	padding-top:0px;
+	background-image: none;
+	border:0px;
+}
+#sideNav a.sideNavLetsTalkButton:hover
+{
+    background-image: none;
+    display: block;
+	height: auto;
+	background-color: transparent;
+}
+.sideNavTabs a.sideNavLetsTalkTerms{
+	display: inline;
+	height: auto;
+}
+#sideNav a.sideNavLetsTalkTerms{
+	display: inline;
+	height: auto;
+}
+
+/*end of: sideNav custom styles for InTouchHomePage3.Master & template5 */
+
+#MKISideNav a
+{
+	color: #515050;
+}
+
+#MKISideNav a:visited
+{
+	color: #515050;
+}
+
+/* end side nav */
+
+
+/*******************************************************************************************************************\
+ * Ad Content Area                                                                                                  *
+\*******************************************************************************************************************/
+
+/* main content area of page is contained in table consisting of three rows: 1) flash banner 2) buttons 3)Ads
+Ads are configured as small (SmAdBox class) or large (LgAdBox class).  These classes are contained within
+the AdContainer class container div. New ad content should be sized accordingly and placed directly within the
+SmAdBox or LgAdBox Div.*/
+
+.AdContainer {
+   width:239px;
+   height:263px; 
+   margin:5px 0 10px 3px; 
+   position:relative; 
+   float:left;
+}
+.SmAdBox {
+   width:239px;
+   height:129px; 
+   margin:0 0 5px 0; 
+   postion:relative; 
+   vertical-align:top;
+}
+
+.LgAdBox {
+   width:244px; 
+   height:263px; 
+   postion:relative; 
+   vertical-align:top;
+}
+
+
+
+/*container*/
+
+.container {
+	width:167px;
+	color:#666;
+}
+.container ul {
+	padding-top:200px;
+	margin:0;
+	padding:9px 9px 0 9px;
+}
+.space{
+	margin-top:20px;
+}
+
+/*
+.link ul {
+	margin-top:10px;
+	margin:0;
+	padding:0 0 0 9px;
+	background: url(/Content/images/boxGraphics/rounded-left.gif) bottom left no-repeat;
+}
+.link em {
+	display:block;
+	padding:0 9px 9px 0;
+	font-style:normal;
+	background: url(/Content/images/boxGraphics/rounded-right.gif) bottom right no-repeat;
+}
+.container a {
+	font-size:22px;
+	color:#e70;
+}*/
+
+
+/*******************************************************************************************************************\
+ * winFullSize - full sized new window                                                                              *
+\*******************************************************************************************************************/
+body#winFullSize {
+	margin:  0;
+	padding: 0;
+}
+#winFullSize div#windownav {
+	margin: 0;
+	padding: 5px 20px;
+	background-color: #666666;
+	color: #ffffff;
+}
+#winFullSize #windownav a {
+	color: #ffffff;
+	text-decoration: underline;
+}
+#winFullSize #content {
+	margin: 0;
+	padding: 20px;
+}
+
+
+/*******************************************************************************************************************\
+ * content722 -- single space for content area                                                                      *
+ *      this is a single white content area which can contain one or two columns of sub-content                     *
+ *                                                                                                                  *
+ *      if content requires 2 columns, primary content should go in "column1", with secondary content in "column2"  *
+ *      images for primary content should be no more than 300 pixels in width                                       *
+ *      images for secondary content should be no more than 130 pixels in width                                     *
+ *                                                                                                                  *
+ *      if column division is not required, do not use the column divs                                              *
+\*******************************************************************************************************************/
+div.content722 {
+	width: 722px;
+	background-color: #ffffff;
+	margin: 20px;
+	padding: 0;
+	background-image: url(/Content/Images/bkg_content722_mid.gif);
+	background-repeat: repeat-y;
+}
+div.divided {  /* **** used for pages where content area is divided into two columns **with a dividing line between them** **** */
+	background-image: url(Images/bkg_content722_mid_divided.gif);
+	background-repeat: repeat-y;
+}
+.content722 div.start {
+	margin: 0;
+	padding: 0;
+	background-image: url(/Content/Images/bkg_content722_top.gif);
+	background-repeat: no-repeat;
+	height: 20px;
+}
+.content722 div.end {
+	margin: 0;
+	padding: 0;
+	background-image: url(/Content/Images/bkg_content722_btm.gif);
+	background-repeat: no-repeat;
+	height: 20px;
+	clear: both;
+}
+.content722 h1 {
+	font-weight: bold;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+}
+.content722 h1 a {
+	color: #000000;
+	text-decoration: underline;
+}
+.content722 h1 a:hover {
+	color: #666666;
+	text-decoration: underline;
+}
+.content722 p {
+	font-size: 12px;
+	margin: 0;
+	padding: 0 0 1em 0;
+	line-height: 1.4em;
+}
+.content722 li {
+	font-size: 12px;
+	margin: 0;
+	padding: 0 0 1em 0;
+	line-height: 1.4em;
+}
+.content722 .datestamp {
+	font-size: 10px;
+	margin: 0;
+	padding: 0;
+	line-height: 1.4em;
+	color: #555555;
+}
+
+/* ****************************** div.column1 ***************************** */
+.content722 div.column1 {
+	margin: 0 0 0 15px;
+	float: left;
+	width: 300px;
+	display: inline;      /* required to resolve the double-margin problems in IE */
+}
+.content722 div.column1 img {
+	margin: 0 auto;
+}
+
+/* ****************************** div.column2 ***************************** */
+.content722 div.column2 {
+	width: 365px;
+	margin: 0 15px 0 0;
+	float: right;
+	display: inline;      /* required to resolve the double-margin problems in IE */
+}
+.content722 .column2 div.featureitem {
+	margin: 0 0 20px 0;
+	padding: 0 0 10px 0;
+	border-bottom: solid 1px #000000;
+}
+.content722 .column2 div.featureitem p {
+	margin: 0 0 0 140px;
+	font-size: 11px;
+}
+.content722 .column2 div.featureitem h1 {
+	margin: 0 0 0 140px;
+	font-size: 13px;
+}
+.content722 .column2 .featureitem img {
+	float: left;
+}
+
+/* ****************************** div.etools ***************************** */
+div.etools h1 {
+	background-image: url(/Content/Images/bkg_content722_top_headline.gif);
+	background-repeat: no-repeat;
+	margin-top: -20px;
+	padding: 1px 15px 15px 15px;
+	text-decoration: underline;
+}
+div.etools h2 {
+	font-weight: bold;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+}
+div.etools p {
+}
+div.etools ul {
+	margin: 0;
+	padding: 0;
+}
+div.etools li {
+	margin: 0 15px;
+	padding: 0;
+	font-size: 11px;
+}
+
+
+div.etools div.info {
+	margin: 0 0 0 15px;
+	float: left;
+	width: 195px;
+	display: inline;      /* required to resolve the double-margin problems in IE */
+}
+div.etools div.details {
+	width: 495px;
+	margin: 0 15px 0 0;
+	float: right;
+	display: inline;      /* required to resolve the double-margin problems in IE */
+	border: solid 1px #000000;
+}
+
+/*BEGIN: Button Styles */
+.NavBananaButton, .NavButton
+{
+	font-size: 8pt;
+	margin: 2px;
+	height: 20px;
+}
+.NavBananaButton
+{
+	background-color: #f9bfc0;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-weight: bold;
+}
+.NavButton
+{
+	background-color: #e4e4e3;
+}
+/*END: Button Styles */
+
+
+/****************Action Items DIV Styles**********************Begin***/
+#CalendarDIV
+{
+   position:absolute;
+   z-index:999;
+}
+
+#AlertsDIV
+{
+   position:absolute;
+   z-index:999;
+}
+
+.MKIActionItemsDIV
+{
+	color: Black;
+	text-align: left;
+	padding-bottom: 15px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #ffffff;
+	border-top: #767A7D 1px solid;
+	border-right: #767A7D 1px solid;
+	border-left: #767A7D 1px solid;
+	border-bottom: #767A7D 1px solid;
+	
+}
+
+
+.MKActionItemTitle
+{
+	
+	background-color: #000000;
+    color:#ffffff;
+	font-family: Arial, Helvetica, sans-serif;
+    font-size:12px;
+    font-weight:bold;
+    padding-left:5px;
+}
+
+.MKAlertsItem
+{
+	padding-top: 10px;
+	padding-left:10px;
+}
+
+.MKAlerts
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	font-weight: bold;
+	
+	
+}
+.MKAlerts a:link
+{
+	color: #666666;
+	font-weight: bold;
+	text-decoration: underline;
+	
+}
+.MKAlerts a:visited
+{
+	color: #666666;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.MKAlerts a:hover
+{
+	color: #ffaaaa;
+	font-weight: bold;
+	text-decoration: none;
+}
+.MKAlerts a:active
+{
+	color: #000000;
+	font-weight: bold;
+	background-color: #f2797f;
+	text-decoration: none;
+}
+
+/****************Action Items DIV Styles**********************End***/
+
+/****************Calendar DIV Styles**********************start***/
+.MKICalendarDIV
+{
+	color: Black;
+	text-align: left;
+	padding-bottom: 15px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #ffffff;
+	border-top: #767A7D 1px solid;
+	border-right: #767A7D 1px solid;
+	border-left: #767A7D 1px solid;
+	border-bottom: #767A7D 1px solid;
+	width: 248px;
+}
+
+.MKCalendarDIVSubTitle
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	font-weight: bold;
+}
+
+.MKCalendarDIVSubHeader
+{
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color:#ffffff;
+	color: #666666;
+	font-weight: bold;
+	text-align:center;
+}
+
+
+.MKCalendarDIVSmallText
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+}
+
+.MKPopUpDIVTitle
+{
+	
+	background-color: #000000;
+    color:#ffffff;
+	font-family: Arial, Helvetica, sans-serif;
+    font-size:12px;
+    font-weight:bold;
+    padding-left:5px;
+}
+/****************Calendar DIV Styles**********************end***/
+#IC_PopupOverlay{
+	z-index: 10000;
+	filter: alpha(opacity=70); /*older IE*/
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=70); /* IE */
+	-moz-opacity: .70; /*older Mozilla*/
+	-khtml-opacity: 0.7;   /*older Safari*/
+	opacity: 0.7;   /*supported by current Mozilla, Safari, and Opera*/
+	background-color:#000000;
+	position:fixed; top:0px; left:0px; width:100%; height:100%; text-align:center; vertical-align:middle;
+	text-align:center;
+	display:none;
+}
+
+#IC_Popup
+{
+	display:none;
+	background-color: #ffffff;
+	top:200px!important;
+	z-index: 10001;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-left: -360px;	
+}
+
+#IC_PopupContent
+{
+	padding: 0 15px 15px 15px;
+}
